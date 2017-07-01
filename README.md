@@ -1,9 +1,16 @@
-## 360° photo viewer
+# 360° Capture, render and view
+## 1. 360° photo viewer
 
 Rendering 360° photo panorama based on JS.
 
-[Demo:](http://360.partikle.xyz/photoviewer/)
+[Demo:](http://360.partikle.xyz/360_viewer/)
 
+#### Features
+* Pan, Zoom and Rotate
+
+* Autorotate
+
+* Add custom markers
 #### Compatibility
 * Web Browser
 * Android /iOS
