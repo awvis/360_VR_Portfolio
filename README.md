@@ -12,6 +12,10 @@ Rendering 360° photo/ Video based on Javascript and HTML5. (360x360)
 
 ![autorotate](https://user-images.githubusercontent.com/6363619/27761881-557c73c6-5e66-11e7-9077-04659d058c6f.gif)
 
+* Mobile Support
+
+![mobile](https://user-images.githubusercontent.com/6363619/27993621-09f22c2c-64ae-11e7-982f-e760c3aaa377.gif)
+
 * Add custom markers  
 
 ![marker](https://user-images.githubusercontent.com/6363619/27761875-182384e2-5e66-11e7-8ea0-b1baa06ef8cc.gif)
